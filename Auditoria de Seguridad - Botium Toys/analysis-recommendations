@@ -1,0 +1,27 @@
+-Objective-
+
+I conducted an internal assessment of Botium Toys' security controls and compliance practices using the information provided in the case study. This analysis allowed me to identify implemented controls, missing controls, and areas that pose risks to the organization.
+
+-Key Findings-
+
+1. **Access Control:** The principle of least privilege and separation of duties have not been implemented.
+2. **Sensitive Information:** Employees can access credit card information, Personally Identifiable Information (PII), and Sensitive Personally Identifiable Information (SPII).
+3. **Encryption:** Credit card information is not encrypted.
+4. **Detection:** There is no Intrusion Detection System (IDS) in place.
+5. **Recovery:** There is no recovery plan in place.
+6. **Passwords:** The password policy is weak, and there is no centralized password management system.
+7. **Legacy Systems:** These systems require manual monitoring and maintenance, but there is no regular maintenance schedule.
+8. **Physical Controls:** Locks, CCTV, and fire detection and prevention systems are in place.
+9. **Existing Controls:** The company has a firewall, antivirus software, and controls to ensure availability and integrity.
+
+-Recommendations-
+
+1. Implement the principle of least privilege.
+2. Implement separation of duties.
+3. Encrypt credit card data.
+4. Implement an IDS to detect suspicious network activity.
+5. Perform regular backups of critical data.
+6. Develop a disaster recovery plan to improve business continuity.
+7. Strengthen the password policy and implement a centralized password management system.
+8. Properly classify and inventory assets and data.
+9. Establish a regular maintenance schedule for legacy systems.
