@@ -1,0 +1,1 @@
+El objetivo de este laboratorio fue practicar dos conceptos de seguridad en aplicaciones web: la identificación de una posible vulnerabilidad de SQL Injection y el análisis de un flujo de autenticación con un segundo factor (OTP/MFA). 
